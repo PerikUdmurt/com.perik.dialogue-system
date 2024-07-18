@@ -1,0 +1,16 @@
+{
+  "name": "com.perik.dialogue-system",
+  "version": "1.0.0",
+  "displayName": "Perik's Dialogue System",
+  "unity": "2018.1",
+  "description": "This package provides tools for dialogue system",
+  "keywords": [
+    "dialogue",
+    "dialogue system",
+    "dialogue tool",
+    "dialoge",
+    "dialogue editor"
+  ],
+  "type": "tool",
+  "hideInEditor": false
+}
